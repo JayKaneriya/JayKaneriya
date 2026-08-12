@@ -17,3 +17,34 @@ With **8+ years of professional experience**, I've worked across SaaS, education
 
 🌐 **Portfolio:** https://jaykaneriya.github.io  
 💼 **LinkedIn:** https://www.linkedin.com/in/jaykaneriya/
+
+
+## What I Build
+
+- SaaS platforms
+- Business applications
+- ERP / admin systems
+- Education platforms
+- eCommerce applications
+- REST APIs
+- Mobile applications
+- Payment integrations
+- Real-time applications
+- Existing application improvements
+- Bug fixing and performance optimization
+- Custom software / MVPs
+
+
+## Tech Stack
+
+**Backend:** Laravel, PHP, MySQL, Redis
+
+**Frontend:** Vue.js, React, JavaScript, TypeScript
+
+**Mobile:** React Native
+
+**APIs & Services:** REST APIs, Firebase, Socket.IO
+
+**Payments:** Stripe, PayPal, BPOINT
+
+**Tools:** Git, GitHub, Linux, CI/CD
