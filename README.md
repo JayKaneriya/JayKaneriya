@@ -4,7 +4,7 @@
 
 I build production web and mobile applications with **Laravel, PHP, Vue.js, React, React Native and MySQL**.
 
-With **8+ years of professional experience**, I've worked across SaaS, education, eCommerce, delivery and business applications.
+With **9+ years of professional experience**, I've worked across SaaS, education, eCommerce, delivery and business applications.
 
 - 🔹 Laravel / PHP backend development
 - 🔹 Vue.js / React frontend development
